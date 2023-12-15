@@ -1,0 +1,16 @@
+@import "@/styles/variables";
+
+.container {
+    @include pageWrapper;
+}
+
+.content {
+    @include pageContent;
+    padding-top: 45px;
+    padding-bottom: 76px;
+    background-color: #fff;
+    display: flex;
+    gap: 44px;
+    justify-content: center;
+    flex-wrap: wrap;
+}

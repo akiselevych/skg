@@ -1,0 +1,160 @@
+@import "@/styles/variables";
+
+@import "@/styles/variables";
+
+.container {
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    .imageBlock {
+        width: 50%;
+        height: 400px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1;
+        padding: 0 40px 40px 40px;
+        background: url("https://icapgroupgmbh.com/images/bg/FramebgSquare2.png")
+                left bottom 47px/ 122px 122px no-repeat,
+            url("https://icapgroupgmbh.com/images/bg/FramebgSquare1.png") right
+                top 47px/ 122px 122px no-repeat;
+        img {
+            border-radius: 12px;
+            object-fit: cover;
+            max-height: 320px;
+        }
+    }
+
+    .textBlock {
+        width: 60%;
+        position: relative;
+        margin-top: 250px;
+        z-index: 2;
+        padding: 36px;
+        border-radius: 12px;
+        background: #fff;
+    }
+    .text {
+        padding: 46px 0 0 36px;
+    }
+    .number1 {
+        background: url("https://icapgroupgmbh.com/images/numbers/Number01.png")
+            left top/ auto 96px no-repeat;
+    }
+    .number2 {
+        background: url("https://icapgroupgmbh.com/images/numbers/Number02.png")
+            left top/ auto 96px no-repeat;
+    }
+    .number3 {
+        background: url("https://icapgroupgmbh.com/images/numbers/Number03.png")
+            left top/ auto 96px no-repeat;
+    }
+}
+
+.containerReverse {
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    .imageBlock {
+        width: 50%;
+        height: 400px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        z-index: 1;
+        padding: 0 40px 40px 40px;
+        background: url("https://icapgroupgmbh.com/images/bg/FramebgSquare2.png")
+                left top 47px/ 122px 122px no-repeat,
+            url("https://icapgroupgmbh.com/images/bg/FramebgSquare1.png") right
+                bottom 47px/ 122px 122px no-repeat;
+        img {
+            border-radius: 12px;
+            object-fit: cover;
+            max-height: 320px;
+        }
+    }
+
+    .textBlock {
+        width: 60%;
+        position: relative;
+        margin-top: 250px;
+        z-index: 2;
+        padding: 36px;
+        border-radius: 12px;
+        background: #fff;
+    }
+    .text {
+        padding: 46px 0 0 36px;
+    }
+    .number1 {
+        background: url("https://icapgroupgmbh.com/images/numbers/Number01.png")
+            left top/ auto 96px no-repeat;
+    }
+    .number2 {
+        background: url("https://icapgroupgmbh.com/images/numbers/Number02.png")
+            left top/ auto 96px no-repeat;
+    }
+    .number3 {
+        background: url("https://icapgroupgmbh.com/images/numbers/Number03.png")
+            left top/ auto 96px no-repeat;
+    }
+}
+
+.containerReverse,
+.container {
+    @media (max-width: 1024px) {
+        .imageBlock {
+            width: 60%;
+        }
+    }
+    @media (max-width: 768px) {
+        .imageBlock {
+            width: 70%;
+        }
+        .textBlock {
+            width: 70%;
+        }
+    }
+    @media (max-width: 642px) {
+        .imageBlock {
+            width: 80%;
+        }
+        .textBlock {
+            width: 80%;
+        }
+    }
+    @media (max-width: 592px) {
+        .imageBlock {
+            width: 100%;
+        }
+    }
+    @media (max-width: 553px) {
+        .imageBlock {
+            width: 100%;
+            padding: 0 40px 40px 0;
+            background: url("https://icapgroupgmbh.com/images/bg/FramebgSquare1.png")
+                right top 47px/ 122px 122px no-repeat;
+        }
+        .textBlock {
+            width: 90%;
+        }
+    }
+    @media (max-width: 470px) {
+        display: flex;
+        flex-direction: column;
+        .imageBlock {
+            width: 100%;
+            padding: 0;
+            background: none;
+            position: relative;
+            height: max-content;
+        }
+        .textBlock {
+            margin-top: 24px;
+            padding: 0;
+            width: 100%;
+        }
+    }
+}

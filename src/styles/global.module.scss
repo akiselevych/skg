@@ -1,0 +1,200 @@
+@import "@/styles/variables";
+
+//BUTTTONS
+
+.primaryButton {
+    padding: 12px 20px;
+    background-color: #fff;
+    color: $Green;
+    border-radius: 25px;
+    border: 1px solid #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    white-space: nowrap;
+    width: max-content;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    cursor: pointer;
+    &:hover {
+        border-radius: 25px;
+        border: 1px solid var(--linear-for-inputs, rgba(93, 135, 139, 0.9));
+        background: linear-gradient(
+                0deg,
+                rgba(228, 228, 228, 0.2) 0%,
+                rgba(228, 228, 228, 0.2) 100%
+            ),
+            #fff;
+        box-shadow: 0px 4px 10px 0px rgba(255, 255, 255, 0.35);
+    }
+    &:active {
+        border-radius: 25px;
+        border: 1px solid var(--linear-for-inputs, rgba(93, 135, 139, 0.9));
+        background: var(--white, #fff);
+        box-shadow: 0px 4px 13px 0px rgba(255, 255, 255, 0.35);
+    }
+}
+.disablePrimaryButton {
+    border-radius: 25px;
+    background: #c6c6c6;
+    border: 1px solid #c6c6c6;
+    pointer-events: none;
+    box-shadow: none;
+}
+
+////TEXT STYLES
+.Heading1Bold {
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 72px;
+    @media (max-width: $tabletSize) {
+        font-size: 32px;
+        line-height: 40px;
+    }
+}
+.Heading2Semibold {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    @media (max-width: $tabletSize) {
+        font-size: 20px;
+        line-height: 28px;
+    }
+}
+.Heading3Medium {
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 40px;
+    @media (max-width: $tabletSize) {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
+.Heading4Bold {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    @media (max-width: $tabletSize) {
+        font-size: 28px;
+        line-height: 36px;
+    }
+}
+.Heading5bold {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    @media (max-width: $tabletSize) {
+        font-size: 18px;
+        line-height: 24px;
+    }
+}
+.Heading6Semibold {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    @media (max-width: $tabletSize) {
+        font-size: 24px;
+        line-height: 32px;
+    }
+}
+.Heading7Semibold {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    @media (max-width: $tabletSize) {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
+.Heading8Bold {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    @media (max-width: $tabletSize) {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
+.Heading8Medium {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    @media (max-width: $tabletSize) {
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+.Body1Regular {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    @media (max-width: $tabletSize) {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
+.Body2Semibold {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+    @media (max-width: $tabletSize) {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
+.Body2Regular {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    @media (max-width: $tabletSize) {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
+.Body3Semibold {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    @media (max-width: $tabletSize) {
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+.Body3Medium {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    @media (max-width: $tabletSize) {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
+.Body3Regular {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    @media (max-width: $tabletSize) {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
+.Body4Regular {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    @media (max-width: $tabletSize) {
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+.Body5Medium {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    @media (max-width: $tabletSize) {
+        font-size: 12px;
+        line-height: 20px;
+    }
+}

@@ -1,0 +1,26 @@
+@import "@/styles/variables";
+
+.container {
+    @include pageWrapper;
+}
+.content {
+    @include pageContent;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+.headBlock {
+    display: flex;
+    flex-direction: column;
+    gap: 31px;
+    margin-bottom: 32px;
+}
+.pointBlock {
+    margin-bottom: 24px;
+}
+.textBlock {
+    margin-top: 8px;
+    margin-bottom: 32px;
+}
+.mb32 {
+    margin-bottom: 32px;
+}

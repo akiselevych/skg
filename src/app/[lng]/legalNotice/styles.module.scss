@@ -1,0 +1,29 @@
+@import "@/styles/variables";
+
+.container {
+    @include pageWrapper;
+}
+.content {
+    @include pageContent;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+}
+.title {
+    margin-bottom: 40px;
+}
+.textBlock {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.greenText {
+    color: $Green;
+}
+.textSubBlock {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

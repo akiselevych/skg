@@ -1,0 +1,262 @@
+{
+
+  "openedMenuButton1": "Homepage",
+  
+  "openedMenuButton2": "Philosophie",
+  
+  "openedMenuButton3": "Portfolio",
+  
+  "openedMenuButton4": "Kontakt",
+  
+  "openedMenuDropdown1": "En",
+  
+  "openedMenuDropdown2": "De",
+  
+  
+  
+  
+  "homePageBanner1": "Steinmacher & Kalich Group",
+  
+  "homePageBanner2": "Herausragende Leistungen bei der Kapitalallokation",
+  
+  "homePageBanner3": "Mehr erfahren",
+  
+  
+  
+  
+  
+  "homePageAboutUsSection": "Über Uns",
+  
+  
+  "homePageAboutUsSection01": "Die SKG nimmt ihren operativen Teams die strategische Arbeit ab, damit der volle Fokus auf Business Excellence gelegt werden kann und unsere Unternehmen das nächste Level erreichen können. Sichere Arbeitsplätze zu schaffen und persönliche Wachstumschancen für alle Mitarbeiter zu garantieren, steht dabei an erster Stelle.",
+  
+  "homePageAboutUsSection02": "Unsere Mission ist es, eine Firmenkultur aufleben zu lassen, die auf Performance und harter Arbeit basiert, geboren aus einer Liebe zum Unternehmen. Ein SKG-Unternehmen ist eine Familie. Hier soll jeder zuhause, gebraucht und willkommen sein. Das ist Mittelstand.",
+  
+  "homePageAboutUsSection03": "Ein stetiger Fokus aus asymmetrische Risk / Reward Szenarien sowie adäquate Return on Time und Return on Invested Capital bilden den Grundstein der SKG. Durch diesen Fokus ist es uns möglich, auch im stürmischen Umfeld navigieren zu können.",
+  
+  
+  
+  
+  
+  "homePageBottomBar1": "Wir sind besterbt, unseren Managementteams strategische Orientierungshilfen für das Gesamtbild an die Hand zu geben.",
+  
+  "homePageBottomBar2": "Homepage",
+  
+  "homePageBottomBar3": "Philosophie",
+  
+  "homePageBottomBar4": "Portfolio",
+  
+  "homePageBottomBar5": "Kontakt",
+  
+  "homePageBottomBar6": "Impressum",
+  
+  "homePageBottomBar7": "Datenschutz",
+  
+   
+  
+  
+  "ourApproachPhilosophyTitle": "Philosophie",
+  
+  
+  "ourApproachPhilosophyText": "Ein wertorientierter Investment-Ansatz, fokussiert auf maximale Wertschöpfung in allen SKG-Unternehmen",
+  
+  
+  "ourApproachPhilosophyTitle1": "Unternehmensnachfolge",
+  
+  "ourApproachPhilosophyTitle1Text1": "Familiäre oder firmeninterne Nachfolge kommen nicht infrage oder sind eher zweite als erste Wahl?",
+  
+  "ourApproachPhilosophyTitle1Text2": "Wir freuen uns, Ihnen unsere Vorschläge zu präsentieren, wie Ihr Vermächtnis und die von Ihnen aufgebauten Arbeitsplätze bewahrt werden können.",
+  
+  "ourApproachPhilosophyTitle1Text3": "Arbeiten Sie mit der SKG.",
+  
+  
+  "ourApproachPhilosophyTitle2": "Management buyout / in",
+  
+  "ourApproachPhilosophyTitle2Text1": "Möchten Sie den ersten Schritt in Richtung Unternehmertum wagen, aber noch fehlt es am nötigen Kapital? Mit der SKG haben Sie Ihren möglichen Partner gefunden.",
+  
+  "ourApproachPhilosophyTitle2Text2": "Sie sind Angesteller oder Manager in einem Unternehmen, möchten dieses aber gerne selbst übernehmen? Der Inhaber hat sein Verkaufsinteresse bekundet?",
+  
+  "ourApproachPhilosophyTitle2Text3": "Arbeiten Sie mit der SKG, um Ihr Unternehmen gemeinsam mit uns in eine leuchtende Zukunft zu führen.",
+  
+  "ourApproachPhilosophyTitle3": "Interessen-Gleichheit",
+  
+  "ourApproachPhilosophyTitle3Text1": "Für uns ist es Grundvoraussetzung, Interessenidentität mit unseren operativen Teams zu kreieren. Bonusstrukturen und Mitarbeiterbeteiligungen gehören in der SKG zum Standard-Repertoire.",
+  
+  "ourApproachPhilosophyTitle4": "Strategische und operative Expertise",
+  
+  "ourApproachPhilosophyTitle4Text1": "Als neue Eigentümer, Partner oder Investoren bringen wir breite Branchenexpertise in diversen Bereichen mit und bauen diese stetig aus. Wir unterstützen unsere operativen Teams in der strategischen Planung und der Implementierung optimierter Prozesse.",
+  
+
+  
+  "portfolioCompany1": "UNIT HOME",
+  
+  "portfolioCompany2": "Ambassador Investment Holding",
+  
+  "portfolioCompany3": "Hochburg Bau GmbH",
+  
+  
+  
+
+  
+  "cardsHoverCompanyTitle1Text1": "WEG- und Mietverwaltung",
+  
+  "cardsHoverCompanyTitle1Text2": "aktiv",
+  
+  "cardsHoverCompanyTitle1Text3": "Immobilien",
+  
+  
+  
+  
+
+  "cardsHoverCompanyTitle2Text1": "Investments in Börsegelistete Unternehmen",
+  
+  "cardsHoverCompanyTitle2Text2": "aktiv",
+  
+  "cardsHoverCompanyTitle2Text3": "Beteiligungsgesellschaften",
+  
+  
+  
+  
+  "cardsHoverCompanyTitle3Text1": "Acquico",
+  
+  "cardsHoverCompanyTitle3Text2": "aktiv",
+  
+  "cardsHoverCompanyTitle3Text3": "Acquico",
+
+
+  "cardSector": "Sektor",
+  "cardStatus": "Status",
+  "cardWisitWebsite": "Website besuchen",
+
+  
+  
+  "requestStatusLoading": "Laden...",   
+  "requestStatusError": "Etwas ist schiefgelaufen",  
+  
+  
+  "contactUsWindowText": "Sie möchten Ihr Unternehmen verkaufen, möchten ein neues Unternehmen gründen oder als Manager den nächsten Schritt wagen? Sie haben Fragen zu den Geschäftszweigen der SKG? Wir freuen uns auf Ihre Kontaktaufnahme und melden uns bei Ihnen.",
+  
+  
+  "contactUsInfo1": "Name",
+  
+  "contactUsInfo1BackText": "Eingabe des Namens",
+  
+  "contactUsInfo2": "Telefonnummer",
+  
+  "contactUsInfo2BackText": "Eingabe der Nummer",
+  
+  "contactUsInfo3": "E-Mail",
+  
+  "contactUsInfo3BackText": "Eingabe der E-Mail",
+  
+  "contactUsInfo4": "Nachricht",
+  
+  "contactUsInfo4BackText": "Bitte geben Sie Ihre Nachricht ein",
+  
+  "contactUsButton": "Absenden",
+  
+  
+  
+  
+  
+  "404PageName": "Steinmacher & Kalich Group",
+  
+  "404PageMenuButton1": "Homepage",
+  
+  "404PageMenuButton2": "Philosophie",
+  
+  "404PageMenuButton3": "Portfolio",
+  
+  "404PageMenuButton4": "Kontakt",
+  
+  "404PageMenuDropdown1": "En",
+  
+  "404PageMenuDropdown2": "De",
+  
+  
+  
+  
+  
+  "404PageTitle": "Huch! Seite Nicht Gefunden",
+  
+  "404PageText1": "Aber keine Sorge! Sie können jederzeit zur Startseite",
+  
+  "404PageText2": "zurückkehren oder die Suchleiste verwenden, um das zu finden, was Sie suchen.",
+  
+
+
+
+  "impressum-page-title": "Impressum",
+  "impressum-informationTMG": "Angaben gemäß § 5 TMG",
+  "impressum-companyName": "Steinmacher & Kalich Group GmbH",
+  "impressum-addressPart1": "Danziger Str. 6",
+  "impressum-addressPart2":"74182 Obersulm",
+  "impressum-representedBy": "Vertreten durch",
+  "impressum-firstPerson": "Jan Steinmacher, Gf",
+  "impressum-secondPerson": "Loris Kalich, Gf",
+  "impressum-districtCourt": "Amtsgericht Stuttgart",
+  "impressum-commercialRegister": "HRB 780366",
+  "impressum-vatID": "USt.-ID: DE358642897",
+  "impressum-contact": "Kontakt",
+  "impressum-telephone": "Telefon: 0157/30742607",
+  "impressum-email": "E-Mail: info@skg-global.co",
+
+
+
+
+  "PrivacyPolicy-main_title": "Datenschutzerklärung",
+  "PrivacyPolicy-last_updated": "Zuletzt aktualisiert am: 29.09.2023",
+  "PrivacyPolicy-information": "I. Informationen über die Verarbeitung Ihrer Daten gemäß Art. 13 der Datenschutz-Grundverordnung (DS-GVO)",
+  "PrivacyPolicy-responsible_person": "1. Verantwortlicher und Datenschutzbeauftragter",
+  "PrivacyPolicy-responsible_person_details": "Verantwortlich für diese Website ist Jan Steinmacher, Danziger Str. 6, info@skg-global.co. Den Datenschutzbeauftragten erreichen Sie per E-Mail unter info@skg-global.co",
+  "PrivacyPolicy-data_processed": "2. Daten, die für die Bereitstellung der Website und die Erstellung der Protokolldateien verarbeitet werden",
+  "PrivacyPolicy-data_processed_details": {
+    "a": "a. Welche Daten werden für welchen Zweck verarbeitet?",
+    "a_subtitle": "Bei jedem Zugriff auf Inhalte der Website werden vorübergehend Daten gespeichert, die möglicherweise eine Identifizierung zulassen. Die folgenden Daten werden hierbei erhoben:",
+    "data_collected": {
+      "1":"Datum und Uhrzeit des Zugriffs",
+      "2":"IP-Adresse",
+      "3":"Hostname des zugreifenden Rechners",
+      "4":"Website, von der aus die Website aufgerufen wurde",
+      "5":"Websites, die über die Website aufgerufen werden",
+      "6":"Besuchte Seite auf unserer Website",
+      "7":"Meldung, ob der Abruf erfolgreich war",
+      "8":"Übertragene Datenmenge",
+      "9":"Informationen über den Browsertyp und die verwendete Version",
+      "10":"Betriebssystem"
+    },
+    "purpose": "Die vorübergehende Speicherung der Daten ist für den Ablauf eines Websitebesuchs erforderlich, um eine Auslieferung der Website zu ermöglichen. Eine weitere Speicherung in Protokolldateien erfolgt, um die Funktionsfähigkeit der Website und die Sicherheit der informationstechnischen Systeme sicherzustellen. In diesen Zwecken liegt auch unser berechtigtes Interesse an der Datenverarbeitung."
+  },
+  "PrivacyPolicy-legal_basis": "b. Auf welcher Rechtsgrundlage werden diese Daten verarbeitet?",
+  "PrivacyPolicy-legal_basis_details": "Die Daten werden auf der Grundlage des Art. 6 Abs. 1 Buchstabe f DS-GVO verarbeitet.",
+  "PrivacyPolicy-storage_duration": "c. Wie lange werden die Daten gespeichert?",
+  "PrivacyPolicy-storage_duration_details": "Die Daten werden gelöscht, sobald sie für die Erreichung des Zwecks ihrer Erhebung nicht mehr erforderlich sind. Bei der Bereitstellung der Website ist dies der Fall, wenn die jeweilige Sitzung beendet ist. Die Protokolldateien werden 24 Stunden direkt und ausschließlich für Administratoren zugänglich aufbewahrt. Danach sind sie nur noch indirekt über die Rekonstruktion von Sicherungsbändern verfügbar und werden nach vier Wochen endgültig gelöscht.",
+  "PrivacyPolicy-data_subject_rights": "3. Betroffenenrechte",
+  "PrivacyPolicy-data_subject_rights_details": {
+    "a": "a. Recht auf Auskunft",
+    "a_details": "Sie können Auskunft nach Art. 15 DS-GVO über Ihre personenbezogenen Daten verlangen, die wir verarbeiten.",
+    "b": "b. Recht auf Widerspruch",
+    "b_details": "Sie haben ein Recht auf Widerspruch aus besonderen Gründen (siehe unter Punkt II).",
+    "c": "c. Recht auf Berichtigung",
+    "c_details": "Sollten die Sie betreffenden Angaben nicht (mehr) zutreffend sein, können Sie nach Art. 16 DS-GVO eine Berichtigung verlangen. Sollten Ihre Daten unvollständig sein, können Sie eine Vervollständigung verlangen.",
+    "d": "d. Recht auf Löschung",
+    "d_details": "Sie können nach Art. 17 DS-GVO die Löschung Ihrer personenbezogenen Daten verlangen",
+    "e": "e. Recht auf Einschränkung der Verarbeitung",
+    "e_details": "Sie haben nach Art. 18 DS-GVO das Recht, eine Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.",
+    "f": "f. Recht auf Beschwerde",
+    "f_details": "Wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten gegen Datenschutzrecht verstößt, haben Sie nach Ar. 77 Abs. 1 DS-GVO das Recht, sich bei einer Datenschutzaufsichtsbehörde eigener Wahl zu beschweren. ",
+    "g": "g. Recht auf Datenübertragbarkeit",
+    "g_details": "",
+    "conclusion": "Für den Fall, dass die Voraussetzungen des Art. 20 Abs. 1 DS-GVO vorliegen, steht Ihnen das Recht zu, sich Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an Dritte aushändigen zu lassen. Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der Protokolldateien sind für den Betrieb der Internetseite zwingend erforderlich. Sie beruhen daher nicht auf einer Einwilligung nach Art. 6 Abs. 1 Buchstabe a DS-GVO oder auf einem Vertrag nach Art. 6 Abs. 1 Buchstabe b DS-GVO, sondern sind nach Art. 6 Abs. 1 Buchstabe f DS-GVO gerechtfertigt. Die Voraussetzungen des Art. 20 Abs. 1 DSGVO sind demnach insoweit nicht erfüllt."
+  },
+  "PrivacyPolicy-right_of_objection": "II. Recht auf Widerspruch gemäß Art. 21 Abs. 1 DS-GVO",
+  "PrivacyPolicy-right_of_objection_details": "Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung Ihrer personenbezogenen Daten, die aufgrund von Artikel 6 Abs. 1 Buchstabe f DS-GVO erfolgt, Widerspruch einzulegen. Der Verantwortliche verarbeitet die personenbezogenen Daten dann nicht mehr, es sei denn, er kann zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die die Interessen, Rechte und Freiheiten der betroffenen Person überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen. Die Erfassung der Daten zur Bereitstellung der Website und die Speicherung der Protokolldateien sind für den Betrieb der Internetseite zwingend erforderlich.",
+
+  "CoockieBannerTitle":"Wir schätzen Ihre Privatsphäre",
+  "CoockieBannerText":"Diese Website verwendet Cookies, um Ihr Surferlebnis zu verbessern und personalisierte Inhalte bereitzustellen. Wenn Sie auf \"Alle Cookies akzeptieren\" klicken, stimmen Sie der Speicherung von Cookies auf Ihrem Gerät zu, um die Nutzung der Website zu analysieren, unsere Dienste zu verbessern und Ihnen relevante Werbung anzuzeigen.",
+  "CoockieBannerBtn1":"Alle Cookies akzeptieren",
+  "CoockieBannerBtn2":"Ablehnen"
+
+
+
+  }

@@ -1,0 +1,157 @@
+@import "@/styles/variables";
+
+.container {
+    max-width: 910px;
+    padding: 60px;
+    box-sizing: content-box;
+    display: flex;
+    align-items: center;
+    gap: 48px;
+
+    .imageBlock {
+        width: 314px;
+        height: 314px;
+        position: relative;
+    }
+    .imageBg {
+        width: 286px;
+        height: 286px;
+        border-radius: 12px;
+        background: #81a597;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+    }
+    .image {
+        width: 286px;
+        height: 286px;
+        border-radius: 12px;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .textBlock {
+        width: calc(100% - (314px + 48px));
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .descrBlock {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+    }
+}
+.containerReverse {
+    max-width: 910px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 48px;
+    padding: 60px;
+    .imageBlock {
+        width: 314px;
+        height: 314px;
+        position: relative;
+    }
+    .imageBg {
+        width: 286px;
+        height: 286px;
+        border-radius: 12px;
+        background: #cadcc4;
+        position: absolute;
+        right: 0;
+        bottom: 0;
+    }
+    .image {
+        width: 286px;
+        height: 286px;
+        border-radius: 12px;
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+    .textBlock {
+        width: calc(100% - (314px + 48px));
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+    .descrBlock {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+    }
+}
+
+.containerReverse,
+.container {
+    @media (max-width: 652px) {
+        flex-direction: column;
+        padding: 40px;
+        .textBlock {
+            width: 100%;
+        }
+        .imageBg {
+            width: 302px;
+            height: 302px;
+        }
+        .image {
+            width: 302px;
+            height: 302px;
+        }
+    }
+    @media (max-width: $mobileSize) {
+        padding: 10px;
+        .imageBlock {
+            width: 300px;
+            height: 300px;
+            position: relative;
+        }
+        .imageBg {
+            display: none;
+        }
+        .image {
+            width: 100%;
+            height: 100%;
+            border-radius: 12px;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+    }
+}
+
+.number1 {
+    background: url("https://icapgroupgmbh.com/images/bg/Frame2rhombus.png")
+        right 30px top 40px / 100px 100px no-repeat;
+    @media (max-width: 652px) {
+        background: url("https://icapgroupgmbh.com/images/bg/Frame2rhombus.png")
+            right 30px bottom 20% / 80px 80px no-repeat;
+    }
+}
+.number2 {
+    background: url("https://icapgroupgmbh.com/images/bg/bgStar.png") left top /
+        86px 86px no-repeat;
+    @media (max-width: 652px) {
+        background: url("https://icapgroupgmbh.com/images/bg/bgStar.png") left
+            30% bottom / 63px 63px no-repeat;
+    }
+}
+.number3 {
+    background: url("https://icapgroupgmbh.com/images/bg/Frame2squares.png")
+        right 60px bottom 50px/ 61px 61px no-repeat;
+    @media (max-width: 652px) {
+        background: url("https://icapgroupgmbh.com/images/bg/Frame2squares.png")
+            right 60px bottom / 45px 45px no-repeat;
+    }
+}
+.number4 {
+    background: url("https://icapgroupgmbh.com/images/bg/FramebgCross.png") left
+        60px bottom 20px / 72px 72px no-repeat;
+    @media (max-width: 652px) {
+        background: url("https://icapgroupgmbh.com/images/bg/FramebgCross.png")
+            left bottom / 45px 45px no-repeat;
+    }
+}

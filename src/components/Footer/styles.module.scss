@@ -1,0 +1,60 @@
+@import "@/styles/variables";
+
+.container {
+    @include pageWrapper;
+    background-color: #000;
+    color: #fff;
+}
+.content {
+    @include pageContent;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    a {
+        color: #fff;
+    }
+    @media (max-width: 624px) {
+        flex-direction: column;
+        gap: 40px;
+    }
+}
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    @media (max-width: 624px) {
+        display: none;
+    }
+}
+.colItem {
+    cursor: pointer;
+    width: max-content;
+}
+.FirstColumn {
+    max-width: 277px;
+    gap: 8px;
+    @media (max-width: 624px) {
+        display: flex;
+    }
+}
+.mobileMenu {
+    display: none;
+    @media (max-width: 624px) {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
+}
+.logoLink {
+    height: 38px;
+    width: auto;
+    img {
+        height: 38px;
+        width: auto;
+    }
+}
+.activeLink {
+    border-bottom: 1px solid #fff;
+}
